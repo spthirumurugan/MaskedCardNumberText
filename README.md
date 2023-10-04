@@ -1,7 +1,6 @@
 # masked-card-number-text
 
-[![npm version](https://badge.fury.io/js/masked-card-number.svg)](https://badge.fury.io/js/masked-card-number)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/spthirumurugan/masked-card-number/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/spthirumurugan/MaskedCardNumberText/blob/main/LICENSE/LICENSE.md)
 
 A React Native component for masking credit card numbers.
 
