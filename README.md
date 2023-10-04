@@ -1,4 +1,4 @@
-# masked-card-number
+# masked-card-number-text
 
 [![npm version](https://badge.fury.io/js/masked-card-number.svg)](https://badge.fury.io/js/masked-card-number)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/masked-card-number/blob/main/LICENSE)
@@ -10,9 +10,9 @@ A React Native component for masking credit card numbers.
 Install the package using npm or yarn:
 
 ```bash
-npm install masked-card-number
+npm install masked-card-number-text
 # or
-yarn add masked-card-number
+yarn add masked-card-number-text
 
 Usage
 Here's how you can use this component in your React Native application:
