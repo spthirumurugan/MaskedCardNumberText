@@ -1,7 +1,7 @@
 # masked-card-number-text
 
 [![npm version](https://badge.fury.io/js/masked-card-number.svg)](https://badge.fury.io/js/masked-card-number)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/masked-card-number/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/spthirumurugan/masked-card-number/blob/main/LICENSE)
 
 A React Native component for masking credit card numbers.
 
@@ -21,12 +21,12 @@ javascript
 Copy code
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
-import MaskedCardNumber from 'masked-card-number';
+import MaskedCardNumberText from 'MaskedCardNumberText';
 
 const App = () => {
   return (
     <View style={styles.container}>
-      <MaskedCardNumber
+      <MaskedCardNumberText
         CardNumber="1234567890123456"
         fontSize={16}
         fontFamily="Arial"
@@ -58,7 +58,7 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Author
-Your Name
+Thirumurugan
 
 Acknowledgments
 Thanks to the open-source community!
